@@ -10,5 +10,4 @@ Student at Cégep Saint-Jean-sur-Richelieu.<br>Future student at ÉTS.<br>Future
 ![](https://github-contributor-stats.vercel.app/api?username=charlo-faucher&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlo-faucher&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=charlo-faucher&icon=0&color=4)](https://visitcount.itsvg.in)
