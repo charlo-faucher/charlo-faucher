@@ -1,5 +1,5 @@
 About Me:
-Student at Cégep Saint-Jean-sur-Richelieu.<br>Future student at ÉTS.<br>Future XR Developer.
+Student at ÉTS.<br>Future XR Developer.
 
 
 ## 🌐 Socials:
