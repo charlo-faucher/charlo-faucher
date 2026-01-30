@@ -1,5 +1,5 @@
 About Me:
-Student at ÉTS.<br>Future XR Developer.
+Student at ÉTS.<br>I like to try multiple types of technology but I prefer when there is interactivity.
 
 
 ## 🌐 Socials:
